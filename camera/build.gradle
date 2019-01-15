@@ -22,3 +22,5 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
 }
+
+apply from: 'https://raw.githubusercontent.com/LoveAuroral/Config/master/gradle/bintray.gradle'

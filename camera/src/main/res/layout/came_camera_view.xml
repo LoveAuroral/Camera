@@ -44,13 +44,13 @@
 
     </LinearLayout>
 
-    <com.auroral.camera.view.CaptureLayout
+    <auroral.widget.view.camera.view.CaptureLayout
         android:id="@+id/capture_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom" />
 
-    <com.auroral.camera.view.FoucsView
+    <auroral.widget.view.camera.view.FoucsView
         android:id="@+id/fouce_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -9,7 +9,7 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
-import com.auroral.camera.util.CameraUtils;
+import auroral.widget.view.camera.util.CameraUtils;
 
 import java.util.ArrayList;
 
